@@ -1,0 +1,6 @@
+apiVersion: v2
+name: backend
+version: 1.0.0
+type: application
+appVersion: "1.0.0"
+description: A helm chart for sprint boot mysql app backend 1.0.0
